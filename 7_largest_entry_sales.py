@@ -1,4 +1,3 @@
-
 sale1 = int(input("Enter first sales figure: "))
 sale2 = int(input("Enter second sales figure: "))
 sale3 = int(input("Enter third sales figure: "))
