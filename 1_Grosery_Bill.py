@@ -8,8 +8,7 @@ elif amount >= 3000:
 else:
     discount = amount * 0.05   # 5% discount
 
-# Calculating final amount
 final_amount = amount - discount
 
-# Displaying final bill
+
 print("Final Bill Amount =", final_amount)
