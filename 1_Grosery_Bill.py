@@ -1,4 +1,3 @@
-
 amount = float(input("Enter purchase amount: "))
 
 if amount >= 5000:
