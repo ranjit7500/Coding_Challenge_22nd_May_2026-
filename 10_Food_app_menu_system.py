@@ -1,16 +1,16 @@
-# Infinite loop
+
 while True:
 
-    # Displaying menu
+ 
     print("\n1. Pizza")
     print("2. Burger")
     print("3. Pasta")
     print("4. Exit")
 
-    # Taking user choice
+   
     choice = input("Enter your choice: ")
 
-    # Checking choice
+  
     if choice == "1":
         print("Pizza Selected")
     elif choice == "2":
