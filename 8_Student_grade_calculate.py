@@ -1,4 +1,3 @@
-
 m1 = int(input("Enter marks of Subject 1: "))
 m2 = int(input("Enter marks of Subject 2: "))
 m3 = int(input("Enter marks of Subject 3: "))
