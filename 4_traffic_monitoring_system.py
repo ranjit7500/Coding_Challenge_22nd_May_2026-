@@ -1,4 +1,3 @@
-
 speed = int(input("Enter vehicle speed: "))
 
 speed_limit = 60
