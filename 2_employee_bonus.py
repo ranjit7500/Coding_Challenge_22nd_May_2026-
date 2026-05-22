@@ -1,4 +1,3 @@
-
 attendance = float(input("Enter attendance percentage: "))
 performance = int(input("Enter performance rating (1-10): "))
 
